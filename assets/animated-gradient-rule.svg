@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="18" viewBox="0 0 1200 18" role="img" aria-label="Animated cyan violet lime gradient accent">
+  <defs>
+    <linearGradient id="flow" x1="-1" y1="0" x2="0" y2="0">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="0.25" stop-color="#22D3EE"/>
+      <stop offset="0.5" stop-color="#A78BFA"/>
+      <stop offset="0.75" stop-color="#C7F36B"/>
+      <stop offset="1" stop-color="#C7F36B" stop-opacity="0"/>
+      <animate attributeName="x1" values="-1;1" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;2" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="soft-glow" x="-20%" y="-200%" width="140%" height="500%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect x="0" y="7" width="1200" height="2" rx="1" fill="#334155" opacity="0.55"/>
+  <rect x="0" y="6" width="1200" height="4" rx="2" fill="url(#flow)" opacity="0.9" filter="url(#soft-glow)"/>
+  <circle cx="72" cy="8" r="2.5" fill="#22D3EE">
+    <animate attributeName="cx" values="72;1128;72" dur="10s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1128" cy="8" r="2.5" fill="#C7F36B">
+    <animate attributeName="cx" values="1128;72;1128" dur="10s" repeatCount="indefinite"/>
+  </circle>
+</svg>

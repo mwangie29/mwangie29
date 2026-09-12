@@ -16,6 +16,10 @@
 
 ---
 
+<p align="center">
+  <img src="./assets/animated-gradient-rule.svg" alt="Animated gradient divider" />
+</p>
+
 ## 🧬 About the system
 
 I’m a Kenya-based developer and designer with **3+ years of experience** across full-stack web development, UX/UI design, ethical hacking, and digital product systems. My work sits at the intersection of technical depth and human clarity: interfaces should feel intuitive, while the systems behind them should be reliable, secure, and ready to scale.
@@ -61,6 +65,10 @@ Visual systems, brand direction, portfolio sites, and digital experiences that c
 </tr>
 </table>
 
+<p align="center">
+  <img src="./assets/animated-gradient-rule.svg" alt="Animated gradient divider" />
+</p>
+
 ## 🚀 Selected builds
 
 ### `01` · [Apex Synergy Platform](https://lewisfolio-mrnnqfid.manus.space)
@@ -87,6 +95,10 @@ My security practice includes vulnerability assessment and penetration-testing w
 
 <img src="https://img.shields.io/badge/OWASP-0B0D0C?style=flat-square&logo=owasp&logoColor=FF4D6D" alt="OWASP" /> <img src="https://img.shields.io/badge/BURP_SUITE-0B0D0C?style=flat-square&logoColor=FF4D6D" alt="Burp Suite" /> <img src="https://img.shields.io/badge/METASPLOIT-0B0D0C?style=flat-square&logoColor=FF4D6D" alt="Metasploit" />
 
+<p align="center">
+  <img src="./assets/animated-gradient-rule.svg" alt="Animated gradient divider" />
+</p>
+
 ## 🧰 Technical toolkit
 
 ### Frontend, product + visual systems
@@ -108,6 +120,10 @@ My security practice includes vulnerability assessment and penetration-testing w
 ### Security + research
 
 `Ethical Hacking` · `Penetration Testing` · `OWASP` · `Cyber Security` · `AI Training (CVAT)` · `Data Analysis` · `IT Networking`
+
+<p align="center">
+  <img src="./assets/animated-gradient-rule.svg" alt="Animated gradient divider" />
+</p>
 
 ## 🏆 GitHub achievements
 
@@ -135,10 +151,18 @@ The primary presentation is intentionally local and reliable: it communicates de
 
 </details>
 
+<p align="center">
+  <img src="./assets/animated-gradient-rule.svg" alt="Animated gradient divider" />
+</p>
+
 ## 🎓 Education + certifications
 
 - **Computer Science** — degree-level training.
 - **CISCO-related training** in IT networking, ethical hacking, and cyber security.
+
+<p align="center">
+  <img src="./assets/animated-gradient-rule.svg" alt="Animated gradient divider" />
+</p>
 
 ## 🌐 Connect to the network
 
@@ -151,6 +175,10 @@ The primary presentation is intentionally local and reliable: it communicates de
 | 📘 Facebook | [facebook.com/dominer.29](https://web.facebook.com/dominer.29/) |
 | ✉️ Email | [mwangilewisng@gmail.com](mailto:mwangilewisng@gmail.com) |
 | 💬 Phone / WhatsApp | [+254 745 335 976](https://wa.me/254745335976) |
+
+<p align="center">
+  <img src="./assets/animated-gradient-rule.svg" alt="Animated gradient divider" />
+</p>
 
 ## 🔭 Open to
 
