@@ -119,7 +119,10 @@ A repository-hosted fallback snapshot of repository activity, open-source contri
 
 ## 📊 Engineering activity
 
-The live cards below remain enabled for automatic synchronization when the upstream services are available.
+The primary presentation is intentionally local and reliable: it communicates design thinking, product work, and engineering signal without depending on a third-party card renderer.
+
+<details>
+<summary>Open live GitHub metrics when the upstream service is available</summary>
 
 <p align="center">
   <a href="https://github.com/mwangie29">
@@ -129,6 +132,8 @@ The live cards below remain enabled for automatic synchronization when the upstr
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwangie29&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=22d3ee&text_color=cbd5e1&custom_title=Full-Stack%20Toolkit" alt="Top languages for mwangie29" />
   </a>
 </p>
+
+</details>
 
 ## 🎓 Education + certifications
 

@@ -1,69 +1,119 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Lewis Mwangi GitHub activity and achievements</title>
-  <desc id="desc">A dark themed fallback banner showing engineering activity categories, design and full-stack focus, and GitHub trophy placeholders.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+  <title id="title">Lewis Mwangi — product design and engineering profile</title>
+  <desc id="desc">A dark editorial portfolio banner presenting Lewis Mwangi's product design, full-stack engineering, security, selected work, and GitHub activity.</desc>
   <defs>
-    <linearGradient id="canvas" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0B0D0C"/>
-      <stop offset="1" stop-color="#141B20"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A0D12"/>
+      <stop offset="0.58" stop-color="#111827"/>
+      <stop offset="1" stop-color="#171126"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#22D3EE"/>
-      <stop offset="0.52" stop-color="#A78BFA"/>
+      <stop offset="0.5" stop-color="#A78BFA"/>
       <stop offset="1" stop-color="#C7F36B"/>
     </linearGradient>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.3"/>
+    <linearGradient id="orb" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0.12"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#94A3B8" stroke-opacity="0.07"/>
+    </pattern>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
   </defs>
 
-  <rect x="12" y="12" width="1176" height="336" rx="24" fill="url(#canvas)" stroke="#2A3940" stroke-width="2" filter="url(#shadow)"/>
-  <rect x="12" y="12" width="1176" height="6" rx="3" fill="url(#accent)"/>
+  <rect width="1200" height="620" fill="url(#bg)"/>
+  <rect width="1200" height="620" fill="url(#grid)"/>
+  <circle cx="1030" cy="95" r="175" fill="url(#orb)" opacity="0.12" filter="url(#glow)"/>
+  <rect x="18" y="18" width="1164" height="584" rx="26" fill="none" stroke="#334155" stroke-width="2"/>
+  <rect x="18" y="18" width="1164" height="5" rx="2.5" fill="url(#line)"/>
 
-  <text x="52" y="64" fill="#F2F0E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="700">GITHUB // ENGINEERING SIGNAL</text>
-  <text x="52" y="91" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">mwangie29 · full-stack systems · product interfaces · security-minded delivery</text>
+  <!-- interface chrome -->
+  <g transform="translate(52 48)">
+    <circle cx="0" cy="0" r="5" fill="#FB7185"/>
+    <circle cx="18" cy="0" r="5" fill="#FBBF24"/>
+    <circle cx="36" cy="0" r="5" fill="#A3E635"/>
+    <text x="850" y="5" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="2">LM / PROFILE SYSTEM</text>
+  </g>
+  <line x1="52" y1="82" x2="1148" y2="82" stroke="#334155"/>
 
-  <g transform="translate(52 124)">
-    <rect width="250" height="92" rx="14" fill="#172127" stroke="#2A3940"/>
-    <circle cx="32" cy="34" r="18" fill="#22D3EE" fill-opacity="0.15" stroke="#22D3EE"/>
-    <path d="M25 34h14M32 27v14" stroke="#22D3EE" stroke-width="2" stroke-linecap="round"/>
-    <text x="62" y="33" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">COMMITS</text>
-    <text x="62" y="57" fill="#F2F0E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">BUILD CONSISTENCY</text>
-    <text x="62" y="76" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">live metric via GitHub</text>
+  <!-- hero -->
+  <g transform="translate(58 126)">
+    <text x="0" y="0" fill="#22D3EE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="3">01 — PRODUCT BUILDER</text>
+    <text x="0" y="58" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="47" font-weight="800">I turn ideas</text>
+    <text x="0" y="110" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="47" font-weight="800">into <tspan fill="#C7F36B">useful systems.</tspan></text>
+    <text x="0" y="153" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">UI/UX design · full-stack engineering · security-minded delivery</text>
+    <text x="0" y="187" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">A living record of what I build, how I think, and what changes next.</text>
+
+    <!-- process rail -->
+    <g transform="translate(0 232)">
+      <line x1="0" y1="0" x2="445" y2="0" stroke="url(#line)" stroke-width="3"/>
+      <circle cx="0" cy="0" r="7" fill="#0A0D12" stroke="#22D3EE" stroke-width="3"/>
+      <circle cx="148" cy="0" r="7" fill="#0A0D12" stroke="#A78BFA" stroke-width="3"/>
+      <circle cx="296" cy="0" r="7" fill="#0A0D12" stroke="#C7F36B" stroke-width="3"/>
+      <circle cx="445" cy="0" r="7" fill="#0A0D12" stroke="#F472B6" stroke-width="3"/>
+      <text x="0" y="31" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700">DISCOVER</text>
+      <text x="148" y="31" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700">DESIGN</text>
+      <text x="296" y="31" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700">BUILD</text>
+      <text x="445" y="31" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700">LEARN</text>
+    </g>
   </g>
 
-  <g transform="translate(322 124)">
-    <rect width="250" height="92" rx="14" fill="#172127" stroke="#2A3940"/>
-    <circle cx="32" cy="34" r="18" fill="#A78BFA" fill-opacity="0.15" stroke="#A78BFA"/>
-    <path d="M23 29h18v12H23zM27 25v4M37 25v4" fill="none" stroke="#A78BFA" stroke-width="2" stroke-linejoin="round"/>
-    <text x="62" y="33" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">PULL REQUESTS</text>
-    <text x="62" y="57" fill="#F2F0E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">OPEN SOURCE</text>
-    <text x="62" y="76" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">collaboration + review</text>
+  <!-- signal card -->
+  <g transform="translate(756 126)">
+    <rect width="370" height="252" rx="18" fill="#0F172A" fill-opacity="0.82" stroke="#334155"/>
+    <text x="24" y="35" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2">GITHUB SIGNAL</text>
+    <text x="24" y="64" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="800">Evidence over adjectives.</text>
+    <line x1="24" y1="82" x2="346" y2="82" stroke="#334155"/>
+    <g transform="translate(24 108)">
+      <text x="0" y="0" fill="#22D3EE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="800">BUILD</text>
+      <text x="105" y="0" fill="#A78BFA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="800">COLLABORATE</text>
+      <text x="250" y="0" fill="#C7F36B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="800">SHIP</text>
+      <rect y="17" width="322" height="7" rx="3.5" fill="#1E293B"/>
+      <rect y="17" width="254" height="7" rx="3.5" fill="url(#line)"/>
+    </g>
+    <g transform="translate(24 173)">
+      <rect width="98" height="44" rx="10" fill="#172033" stroke="#24344A"/>
+      <text x="14" y="19" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10">COMMITS</text>
+      <text x="14" y="36" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">ACTIVE</text>
+      <rect x="112" width="98" height="44" rx="10" fill="#172033" stroke="#24344A"/>
+      <text x="126" y="19" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10">PULL REQUESTS</text>
+      <text x="126" y="36" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">OPEN SOURCE</text>
+      <rect x="224" width="98" height="44" rx="10" fill="#172033" stroke="#24344A"/>
+      <text x="238" y="19" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10">TROPHIES</text>
+      <text x="238" y="36" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">MILESTONES</text>
+    </g>
   </g>
 
-  <g transform="translate(592 124)">
-    <rect width="250" height="92" rx="14" fill="#172127" stroke="#2A3940"/>
-    <circle cx="32" cy="34" r="18" fill="#C7F36B" fill-opacity="0.15" stroke="#C7F36B"/>
-    <path d="M32 23l3.5 7 7.5 1.1-5.5 5.3 1.3 7.5-6.8-3.6-6.8 3.6 1.3-7.5-5.5-5.3 7.5-1.1z" fill="none" stroke="#C7F36B" stroke-width="1.8" stroke-linejoin="round"/>
-    <text x="62" y="33" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">STARS</text>
-    <text x="62" y="57" fill="#F2F0E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">USEFUL PRODUCTS</text>
-    <text x="62" y="76" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">impact + discoverability</text>
+  <!-- work cards -->
+  <g transform="translate(58 430)">
+    <text x="0" y="0" fill="#22D3EE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2">02 — SELECTED WORK</text>
+    <g transform="translate(0 24)">
+      <rect width="315" height="102" rx="14" fill="#111827" stroke="#334155"/>
+      <rect width="6" height="102" rx="3" fill="#22D3EE"/>
+      <text x="24" y="30" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="800">Apex Synergy</text>
+      <text x="24" y="53" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Financial product system</text>
+      <text x="24" y="78" fill="#22D3EE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">PRODUCT · SECURITY · FULL-STACK</text>
+    </g>
+    <g transform="translate(337 24)">
+      <rect width="315" height="102" rx="14" fill="#111827" stroke="#334155"/>
+      <rect width="6" height="102" rx="3" fill="#A78BFA"/>
+      <text x="24" y="30" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="800">Éphémère</text>
+      <text x="24" y="53" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Creative studio experience</text>
+      <text x="24" y="78" fill="#A78BFA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">BRAND · UX/UI · MOTION</text>
+    </g>
+    <g transform="translate(674 24)">
+      <rect width="315" height="102" rx="14" fill="#111827" stroke="#334155"/>
+      <rect width="6" height="102" rx="3" fill="#C7F36B"/>
+      <text x="24" y="30" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="800">LewMart</text>
+      <text x="24" y="53" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Commerce flow for Kenya</text>
+      <text x="24" y="78" fill="#C7F36B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">PRODUCT DESIGN · COMMERCE</text>
+    </g>
   </g>
 
-  <g transform="translate(862 124)">
-    <rect width="286" height="92" rx="14" fill="#172127" stroke="#2A3940"/>
-    <circle cx="32" cy="34" r="18" fill="#F472B6" fill-opacity="0.15" stroke="#F472B6"/>
-    <path d="M32 22l4.3 8.7 9.7 1.4-7 6.8 1.7 9.6-8.7-4.6-8.7 4.6 1.7-9.6-7-6.8 9.7-1.4z" fill="none" stroke="#F472B6" stroke-width="1.8" stroke-linejoin="round"/>
-    <text x="62" y="33" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">TROPHIES</text>
-    <text x="62" y="57" fill="#F2F0E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">DESIGN + BUILD</text>
-    <text x="62" y="76" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">achievement snapshot</text>
-  </g>
-
-  <line x1="52" y1="254" x2="1148" y2="254" stroke="#2A3940"/>
-  <text x="52" y="291" fill="#22D3EE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">01</text>
-  <text x="85" y="291" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">DESIGN THE SIGNAL</text>
-  <text x="318" y="291" fill="#A78BFA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">02</text>
-  <text x="351" y="291" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">ENGINEER THE SYSTEM</text>
-  <text x="625" y="291" fill="#C7F36B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">03</text>
-  <text x="658" y="291" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">PROTECT THE SURFACE</text>
-  <text x="52" y="323" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">Local fallback banner · live third-party metrics remain available below when their services respond</text>
+  <text x="58" y="584" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">Local visual fallback · designed as a product narrative, not a generic stats dashboard</text>
+  <text x="1140" y="584" text-anchor="end" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">LEWIS / 2026</text>
 </svg>
