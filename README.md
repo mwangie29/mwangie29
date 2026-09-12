@@ -111,15 +111,15 @@ My security practice includes vulnerability assessment and penetration-testing w
 
 ## 🏆 GitHub achievements
 
-A live snapshot of repository activity, open-source contribution, collaboration, and language breadth. The trophy grid is generated dynamically from the public GitHub profile.
+A repository-hosted fallback snapshot of repository activity, open-source contribution, collaboration, and language breadth. It keeps the profile visually complete even when an external stats service is unavailable.
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mwangie29&theme=onedark&title=Repositories,Commits,Stars,PullRequest,Issues,Reviews,MultiLanguage&rank=-C,-B&row=2&column=4&margin-w=12&margin-h=12&no-bg=true&no-frame=true" alt="GitHub achievements for mwangie29" />
-  </a>
+  <img src="./assets/github-fallback-banner.svg" alt="GitHub engineering signal and achievement fallback banner for mwangie29" />
 </p>
 
 ## 📊 Engineering activity
+
+The live cards below remain enabled for automatic synchronization when the upstream services are available.
 
 <p align="center">
   <a href="https://github.com/mwangie29">
