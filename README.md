@@ -2,13 +2,13 @@
 
 # ⚡ Lewis Ngunjiri Mwangi
 
-### `FULL STACK DEVELOPER` · `ETHICAL HACKER` · `UX/UI DESIGNER`
+### `FULL-STACK DEVELOPER` · `UX/UI DESIGNER` · `SECURITY-MINDED BUILDER`
 
-<img src="https://img.shields.io/badge/BUILDING-DIGITAL%20SYSTEMS-0B0D0C?style=for-the-badge&labelColor=C7F36B&color=1A1E1B" alt="Building digital systems" />
+<img src="https://img.shields.io/badge/BUILDING-DIGITAL%20PRODUCTS-0B0D0C?style=for-the-badge&labelColor=C7F36B&color=1A1E1B" alt="Building digital products" />
 <img src="https://img.shields.io/badge/BASED%20IN-EMBU%2C%20KENYA-0B0D0C?style=for-the-badge&labelColor=F2F0E8&color=1A1E1B" alt="Based in Embu, Kenya" />
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLABS-0B0D0C?style=for-the-badge&labelColor=7000FF&color=1A1E1B" alt="Open to collaborations" />
 
-**I design and engineer scalable, secure digital products for startups — from the first product decision to the last interface detail.**
+**I combine product thinking, interface design, and full-stack engineering to turn ideas into practical digital products.**
 
 [🌐 Portfolio](https://lewisfolio-mrnnqfid.manus.space) · [💼 LinkedIn](https://www.linkedin.com/in/lewis-mwangi-712914334) · [✉️ Email](mailto:mwangilewisng@gmail.com)
 
@@ -20,7 +20,7 @@
 
 I’m a Kenya-based developer and designer with **3+ years of experience** across full-stack web development, UX/UI design, ethical hacking, and digital product systems. My work sits at the intersection of technical depth and human clarity: interfaces should feel intuitive, while the systems behind them should be reliable, secure, and ready to scale.
 
-I’m based in **Embu, Kenya**, and work globally with founders, small teams, and organizations building useful digital products.
+I work with founders, small teams, and organizations building useful digital products—from early product decisions and interaction systems to production architecture, deployment, and security-minded delivery.
 
 > **Design the signal. Engineer the system. Protect the surface.**
 
@@ -89,17 +89,46 @@ My security practice includes vulnerability assessment and penetration-testing w
 
 ## 🧰 Technical toolkit
 
-### Frontend
+### Frontend, product + visual systems
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,framer" alt="Frontend technologies" />
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,react,nextjs,typescript,tailwind,framer,html,css&theme=dark&perline=8" alt="Frontend, product, and visual design technologies" />
+  </a>
+</p>
 
 ### Backend, data + infrastructure
 
-<img src="https://skillicons.dev/icons?i=django,nodejs,express,postgres,mongodb,supabase,prisma,docker,aws,vercel" alt="Backend and infrastructure technologies" />
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,nodejs,express,postgres,mongodb,supabase,prisma,docker,aws,vercel,git,github&theme=dark&perline=8" alt="Backend, data, and infrastructure technologies" />
+  </a>
+</p>
 
 ### Security + research
 
 `Ethical Hacking` · `Penetration Testing` · `OWASP` · `Cyber Security` · `AI Training (CVAT)` · `Data Analysis` · `IT Networking`
+
+## 🏆 GitHub achievements
+
+A live snapshot of repository activity, open-source contribution, collaboration, and language breadth. The trophy grid is generated dynamically from the public GitHub profile.
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mwangie29&theme=onedark&title=Repositories,Commits,Stars,PullRequest,Issues,Reviews,MultiLanguage&rank=-C,-B&row=2&column=4&margin-w=12&margin-h=12&no-bg=true&no-frame=true" alt="GitHub achievements for mwangie29" />
+  </a>
+</p>
+
+## 📊 Engineering activity
+
+<p align="center">
+  <a href="https://github.com/mwangie29">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mwangie29&show_icons=true&hide_border=true&theme=transparent&title_color=22d3ee&icon_color=a78bfa&text_color=cbd5e1&custom_title=Engineering%20Activity&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub engineering activity for mwangie29" />
+  </a>
+  <a href="https://github.com/mwangie29">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwangie29&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=22d3ee&text_color=cbd5e1&custom_title=Full-Stack%20Toolkit" alt="Top languages for mwangie29" />
+  </a>
+</p>
 
 ## 🎓 Education + certifications
 
@@ -111,7 +140,7 @@ My security practice includes vulnerability assessment and penetration-testing w
 | Channel | Link |
 | --- | --- |
 | 🌐 Portfolio | [lewisfolio-mrnnqfid.manus.space](https://lewisfolio-mrnnqfid.manus.space) |
-| 💼 LinkedIn | [linkedin.com/in/lewis-mwangi-712914334](https://www.linkedin.com/in/lewis-mwangi-712914334) |
+| 💼 LinkedIn | [linkedin.com/in/lewis-mwangi-712914334](https://linkedin.com/in/lewis-mwangi-712914334) |
 | 🧑‍💻 GitHub | [github.com/mwangie29](https://github.com/mwangie29) |
 | 📸 Instagram | [@dominer.29](https://www.instagram.com/dominer.29/) |
 | 📘 Facebook | [facebook.com/dominer.29](https://web.facebook.com/dominer.29/) |
