@@ -44,17 +44,17 @@
     <circle cx="0" cy="0" r="5" fill="#FB7185"/>
     <circle cx="18" cy="0" r="5" fill="#FBBF24"/>
     <circle cx="36" cy="0" r="5" fill="#A3E635"/>
-    <text x="850" y="5" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="2">LM / PROFILE SYSTEM</text>
+    <text x="850" y="5" fill="#64748B" font-family="Avenir Next,Inter,Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="2">LM / PROFILE SYSTEM</text>
   </g>
   <line x1="52" y1="82" x2="1148" y2="82" stroke="#334155"/>
 
   <!-- hero -->
   <g transform="translate(58 126)">
-    <text x="0" y="0" fill="#22D3EE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="3">01 — PRODUCT BUILDER</text>
-    <text x="0" y="58" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="47" font-weight="800">I turn ideas</text>
-    <text x="0" y="110" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="47" font-weight="800">into <tspan fill="#C7F36B">useful systems.</tspan></text>
-    <text x="0" y="153" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">UI/UX design · full-stack engineering · security-minded delivery</text>
-    <text x="0" y="187" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">A living record of what I build, how I think, and what changes next.</text>
+    <text x="0" y="0" fill="#22D3EE" font-family="Avenir Next,Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="3">01 — PRODUCT BUILDER</text>
+    <text x="0" y="58" fill="#F8FAFC" font-family="Avenir Next,Inter,Segoe UI,Arial,sans-serif" font-size="47" font-weight="800" letter-spacing="-1.2">I turn ideas</text>
+    <text x="0" y="110" fill="#F8FAFC" font-family="Avenir Next,Inter,Segoe UI,Arial,sans-serif" font-size="47" font-weight="800" letter-spacing="-1.2">into <tspan fill="#C7F36B">useful systems.</tspan></text>
+    <text x="0" y="153" fill="#CBD5E1" font-family="Avenir Next,Inter,Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="0.2">UI/UX design · full-stack engineering · security-minded delivery</text>
+    <text x="0" y="187" fill="#64748B" font-family="Avenir Next,Inter,Segoe UI,Arial,sans-serif" font-size="13">A living record of what I build, how I think, and what changes next.</text>
 
     <!-- process rail -->
     <g transform="translate(0 232)">
@@ -75,23 +75,23 @@
         <animate attributeName="r" values="7;10;7" dur="2.8s" begin="1.05s" repeatCount="indefinite"/>
         <animate attributeName="opacity" values="1;0.62;1" dur="2.8s" begin="1.05s" repeatCount="indefinite"/>
       </circle>
-      <text x="0" y="31" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700">DISCOVER</text>
-      <text x="148" y="31" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700">DESIGN</text>
-      <text x="296" y="31" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700">BUILD</text>
-      <text x="445" y="31" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700">LEARN</text>
+      <text x="0" y="31" fill="#E2E8F0" font-family="Avenir Next,Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700">DISCOVER</text>
+      <text x="148" y="31" fill="#E2E8F0" font-family="Avenir Next,Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700">DESIGN</text>
+      <text x="296" y="31" fill="#E2E8F0" font-family="Avenir Next,Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700">BUILD</text>
+      <text x="445" y="31" fill="#E2E8F0" font-family="Avenir Next,Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700">LEARN</text>
     </g>
   </g>
 
   <!-- signal card -->
   <g transform="translate(756 126)">
     <rect width="370" height="252" rx="18" fill="#0F172A" fill-opacity="0.82" stroke="#334155"/>
-    <text x="24" y="35" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2">GITHUB SIGNAL</text>
-    <text x="24" y="64" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="800">Evidence over adjectives.</text>
+    <text x="24" y="35" fill="#94A3B8" font-family="Avenir Next,Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2">GITHUB SIGNAL</text>
+    <text x="24" y="64" fill="#F8FAFC" font-family="Avenir Next,Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="800" letter-spacing="-0.4">Evidence over adjectives.</text>
     <line x1="24" y1="82" x2="346" y2="82" stroke="#334155"/>
     <g transform="translate(24 108)">
-      <text x="0" y="0" fill="#22D3EE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="800">BUILD</text>
-      <text x="105" y="0" fill="#A78BFA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="800">COLLABORATE</text>
-      <text x="250" y="0" fill="#C7F36B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="800">SHIP</text>
+      <text x="0" y="0" fill="#22D3EE" font-family="Avenir Next,Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="800">BUILD</text>
+      <text x="105" y="0" fill="#A78BFA" font-family="Avenir Next,Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="800">COLLABORATE</text>
+      <text x="250" y="0" fill="#C7F36B" font-family="Avenir Next,Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="800">SHIP</text>
       <rect y="17" width="322" height="7" rx="3.5" fill="#1E293B"/>
       <rect y="17" width="254" height="7" rx="3.5" fill="url(#line)">
         <animate attributeName="width" values="210;274;210" dur="5s" repeatCount="indefinite"/>
@@ -101,43 +101,43 @@
       <rect width="98" height="44" rx="10" fill="#172033" stroke="#24344A">
         <animate attributeName="stroke" values="#24344A;#22D3EE;#24344A" dur="4s" repeatCount="indefinite"/>
       </rect>
-      <text x="14" y="19" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10">COMMITS</text>
-      <text x="14" y="36" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">ACTIVE</text>
+      <text x="14" y="19" fill="#64748B" font-family="Avenir Next,Inter,Segoe UI,Arial,sans-serif" font-size="10">COMMITS</text>
+      <text x="14" y="36" fill="#F8FAFC" font-family="Avenir Next,Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">ACTIVE</text>
       <rect x="112" width="98" height="44" rx="10" fill="#172033" stroke="#24344A"/>
-      <text x="126" y="19" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10">PULL REQUESTS</text>
-      <text x="126" y="36" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">OPEN SOURCE</text>
+      <text x="126" y="19" fill="#64748B" font-family="Avenir Next,Inter,Segoe UI,Arial,sans-serif" font-size="10">PULL REQUESTS</text>
+      <text x="126" y="36" fill="#F8FAFC" font-family="Avenir Next,Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">OPEN SOURCE</text>
       <rect x="224" width="98" height="44" rx="10" fill="#172033" stroke="#24344A"/>
-      <text x="238" y="19" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10">TROPHIES</text>
-      <text x="238" y="36" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">MILESTONES</text>
+      <text x="238" y="19" fill="#64748B" font-family="Avenir Next,Inter,Segoe UI,Arial,sans-serif" font-size="10">TROPHIES</text>
+      <text x="238" y="36" fill="#F8FAFC" font-family="Avenir Next,Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">MILESTONES</text>
     </g>
   </g>
 
   <!-- work cards -->
   <g transform="translate(58 430)">
-    <text x="0" y="0" fill="#22D3EE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2">02 — SELECTED WORK</text>
+    <text x="0" y="0" fill="#22D3EE" font-family="Avenir Next,Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2">02 — SELECTED WORK</text>
     <g transform="translate(0 24)">
       <rect width="315" height="102" rx="14" fill="#111827" stroke="#334155"/>
       <rect width="6" height="102" rx="3" fill="#22D3EE"/>
-      <text x="24" y="30" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="800">Apex Synergy</text>
-      <text x="24" y="53" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Financial product system</text>
-      <text x="24" y="78" fill="#22D3EE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">PRODUCT · SECURITY · FULL-STACK</text>
+      <text x="24" y="30" fill="#F8FAFC" font-family="Avenir Next,Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="800">Apex Synergy</text>
+      <text x="24" y="53" fill="#94A3B8" font-family="Avenir Next,Inter,Segoe UI,Arial,sans-serif" font-size="12">Financial product system</text>
+      <text x="24" y="78" fill="#22D3EE" font-family="Avenir Next,Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">PRODUCT · SECURITY · FULL-STACK</text>
     </g>
     <g transform="translate(337 24)">
       <rect width="315" height="102" rx="14" fill="#111827" stroke="#334155"/>
       <rect width="6" height="102" rx="3" fill="#A78BFA"/>
-      <text x="24" y="30" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="800">Éphémère</text>
-      <text x="24" y="53" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Creative studio experience</text>
-      <text x="24" y="78" fill="#A78BFA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">BRAND · UX/UI · MOTION</text>
+      <text x="24" y="30" fill="#F8FAFC" font-family="Avenir Next,Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="800">Éphémère</text>
+      <text x="24" y="53" fill="#94A3B8" font-family="Avenir Next,Inter,Segoe UI,Arial,sans-serif" font-size="12">Creative studio experience</text>
+      <text x="24" y="78" fill="#A78BFA" font-family="Avenir Next,Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">BRAND · UX/UI · MOTION</text>
     </g>
     <g transform="translate(674 24)">
       <rect width="315" height="102" rx="14" fill="#111827" stroke="#334155"/>
       <rect width="6" height="102" rx="3" fill="#C7F36B"/>
-      <text x="24" y="30" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="800">LewMart</text>
-      <text x="24" y="53" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Commerce flow for Kenya</text>
-      <text x="24" y="78" fill="#C7F36B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">PRODUCT DESIGN · COMMERCE</text>
+      <text x="24" y="30" fill="#F8FAFC" font-family="Avenir Next,Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="800">LewMart</text>
+      <text x="24" y="53" fill="#94A3B8" font-family="Avenir Next,Inter,Segoe UI,Arial,sans-serif" font-size="12">Commerce flow for Kenya</text>
+      <text x="24" y="78" fill="#C7F36B" font-family="Avenir Next,Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">PRODUCT DESIGN · COMMERCE</text>
     </g>
   </g>
 
-  <text x="58" y="584" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">Local visual fallback · designed as a product narrative, not a generic stats dashboard</text>
-  <text x="1140" y="584" text-anchor="end" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">LEWIS / 2026</text>
+  <text x="58" y="584" fill="#64748B" font-family="Avenir Next,Inter,Segoe UI,Arial,sans-serif" font-size="11">Local visual fallback · designed as a product narrative, not a generic stats dashboard</text>
+  <text x="1140" y="584" text-anchor="end" fill="#64748B" font-family="Avenir Next,Inter,Segoe UI,Arial,sans-serif" font-size="11">LEWIS / 2026</text>
 </svg>
