@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Lewis Ngunjiri Mwangi
+<h1 align="center">LEWIS NGUNJIRI MWANGI</h1>
 
 ### `FULL-STACK DEVELOPER` · `UX/UI DESIGNER` · `SECURITY-MINDED BUILDER`
 
@@ -20,7 +20,7 @@
   <img src="./assets/animated-gradient-rule.svg" alt="Animated gradient divider" />
 </p>
 
-## 🧬 About the system
+## 🧬 ABOUT THE SYSTEM
 
 I’m a Kenya-based developer and designer with **3+ years of experience** across full-stack web development, UX/UI design, ethical hacking, and digital product systems. My work sits at the intersection of technical depth and human clarity: interfaces should feel intuitive, while the systems behind them should be reliable, secure, and ready to scale.
 
@@ -28,20 +28,20 @@ I work with founders, small teams, and organizations building useful digital pro
 
 > **Design the signal. Engineer the system. Protect the surface.**
 
-## 🛰️ What I work on
+## 🛰️ WHAT I WORK ON
 
 <table>
 <tr>
 <td width="50%">
 
-### ⚙️ Full-stack development
+### ⚙️ FULL-STACK DEVELOPMENT
 
 Production-minded web applications, frontend architecture, APIs, databases, and deployment workflows.
 
 </td>
 <td width="50%">
 
-### 🎛️ UX/UI design
+### 🎛️ UX/UI DESIGN
 
 Product flows, responsive interfaces, interaction systems, design direction, and polished prototypes.
 
@@ -50,14 +50,14 @@ Product flows, responsive interfaces, interaction systems, design direction, and
 <tr>
 <td width="50%">
 
-### 🛡️ Security
+### 🛡️ SECURITY
 
 Ethical hacking, penetration testing, vulnerability assessment, OWASP-minded product review, and security-aware delivery.
 
 </td>
 <td width="50%">
 
-### ✦ Brand and digital identity
+### ✦ BRAND AND DIGITAL IDENTITY
 
 Visual systems, brand direction, portfolio sites, and digital experiences that communicate clearly.
 
@@ -69,27 +69,27 @@ Visual systems, brand direction, portfolio sites, and digital experiences that c
   <img src="./assets/animated-gradient-rule.svg" alt="Animated gradient divider" />
 </p>
 
-## 🚀 Selected builds
+## 🚀 SELECTED BUILDS
 
-### `01` · [Apex Synergy Platform](https://lewisfolio-mrnnqfid.manus.space)
+### `01` · [APEX SYNERGY PLATFORM](https://lewisfolio-mrnnqfid.manus.space)
 
 An enterprise financial dashboard concept for startups and SMEs, combining real-time analytics, secure payment processing, and multi-user collaboration. My linked portfolio identifies the role as **Full Stack Developer & Security Lead**.
 
 <img src="https://img.shields.io/badge/Next.js-0B0D0C?style=flat-square&logo=next.js&logoColor=C7F36B" alt="Next.js" /> <img src="https://img.shields.io/badge/Prisma-0B0D0C?style=flat-square&logo=prisma&logoColor=C7F36B" alt="Prisma" /> <img src="https://img.shields.io/badge/PostgreSQL-0B0D0C?style=flat-square&logo=postgresql&logoColor=C7F36B" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Stripe-0B0D0C?style=flat-square&logo=stripe&logoColor=C7F36B" alt="Stripe" />
 
-### `02` · [Éphémère Creative Studio](https://lewisfolio-mrnnqfid.manus.space)
+### `02` · [ÉPHÉMÈRE CREATIVE STUDIO](https://lewisfolio-mrnnqfid.manus.space)
 
 A brand and portfolio website for a creative agency, designed around interactive case studies, smooth motion, and a modern design system.
 
 <img src="https://img.shields.io/badge/React-0B0D0C?style=flat-square&logo=react&logoColor=00F0FF" alt="React" /> <img src="https://img.shields.io/badge/Tailwind_CSS-0B0D0C?style=flat-square&logo=tailwindcss&logoColor=00F0FF" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Framer_Motion-0B0D0C?style=flat-square&logo=framer&logoColor=00F0FF" alt="Framer Motion" />
 
-### `03` · [LewMart](https://lewmart-rice-jpvxgjln.manus.space)
+### `03` · [LEWMART](https://lewmart-rice-jpvxgjln.manus.space)
 
 A premium Kenyan rice storefront for Grade 1 Mwea Pishori rice, with direct ordering, product presentation, and a WhatsApp-led commerce flow. LinkedIn lists the project period as **April–May 2026**.
 
 <img src="https://img.shields.io/badge/PRODUCT_DESIGN-0B0D0C?style=flat-square&logoColor=7000FF" alt="Product design" /> <img src="https://img.shields.io/badge/DIGITAL_COMMERCE-0B0D0C?style=flat-square&logoColor=7000FF" alt="Digital commerce" /> <img src="https://img.shields.io/badge/WHATSAPP_ORDERING-0B0D0C?style=flat-square&logo=whatsapp&logoColor=7000FF" alt="WhatsApp ordering" />
 
-### `04` · Security audit + machine-safety research
+### `04` · SECURITY AUDIT + MACHINE-SAFETY RESEARCH
 
 My security practice includes vulnerability assessment and penetration-testing work. I also write about the relationship between AI, industrial machinery, safety systems, and human risk in my [Medium article on AI working on machines](https://medium.com/@lewismwangie/artificial-intelligence-infusion-with-robotics-is-it-a-necessity-or-an-alternative-a7227abff623).
 
@@ -99,9 +99,9 @@ My security practice includes vulnerability assessment and penetration-testing w
   <img src="./assets/animated-gradient-rule.svg" alt="Animated gradient divider" />
 </p>
 
-## 🧰 Technical toolkit
+## 🧰 TECHNICAL TOOLKIT
 
-### Frontend, product + visual systems
+### FRONTEND, PRODUCT + VISUAL SYSTEMS
 
 <p>
   <a href="https://skillicons.dev">
@@ -109,7 +109,7 @@ My security practice includes vulnerability assessment and penetration-testing w
   </a>
 </p>
 
-### Backend, data + infrastructure
+### BACKEND, DATA + INFRASTRUCTURE
 
 <p>
   <a href="https://skillicons.dev">
@@ -117,7 +117,7 @@ My security practice includes vulnerability assessment and penetration-testing w
   </a>
 </p>
 
-### Security + research
+### SECURITY + RESEARCH
 
 `Ethical Hacking` · `Penetration Testing` · `OWASP` · `Cyber Security` · `AI Training (CVAT)` · `Data Analysis` · `IT Networking`
 
@@ -125,7 +125,7 @@ My security practice includes vulnerability assessment and penetration-testing w
   <img src="./assets/animated-gradient-rule.svg" alt="Animated gradient divider" />
 </p>
 
-## 🏆 GitHub achievements
+## 🏆 GITHUB ACHIEVEMENTS
 
 A repository-hosted fallback snapshot of repository activity, open-source contribution, collaboration, and language breadth. It keeps the profile visually complete even when an external stats service is unavailable.
 
@@ -133,7 +133,7 @@ A repository-hosted fallback snapshot of repository activity, open-source contri
   <img src="./assets/github-fallback-banner.svg" alt="GitHub engineering signal and achievement fallback banner for mwangie29" />
 </p>
 
-## 📊 Engineering activity
+## 📊 ENGINEERING ACTIVITY
 
 The primary presentation is intentionally local and reliable: it communicates design thinking, product work, and engineering signal without depending on a third-party card renderer.
 
@@ -155,7 +155,7 @@ The primary presentation is intentionally local and reliable: it communicates de
   <img src="./assets/animated-gradient-rule.svg" alt="Animated gradient divider" />
 </p>
 
-## 🎓 Education + certifications
+## 🎓 EDUCATION + CERTIFICATIONS
 
 - **Computer Science** — degree-level training.
 - **CISCO-related training** in IT networking, ethical hacking, and cyber security.
@@ -164,7 +164,7 @@ The primary presentation is intentionally local and reliable: it communicates de
   <img src="./assets/animated-gradient-rule.svg" alt="Animated gradient divider" />
 </p>
 
-## 🌐 Connect to the network
+## 🌐 CONNECT TO THE NETWORK
 
 | Channel | Link |
 | --- | --- |
@@ -180,7 +180,7 @@ The primary presentation is intentionally local and reliable: it communicates de
   <img src="./assets/animated-gradient-rule.svg" alt="Animated gradient divider" />
 </p>
 
-## 🔭 Open to
+## 🔭 OPEN TO
 
 Thoughtful collaborations involving startup products, full-stack builds, interface systems, security-minded engineering, technical research, and digital brand experiences.
 
